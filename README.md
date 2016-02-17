@@ -2,6 +2,8 @@
 
 A simple HTML/Bootstrap/JavaScript GoPro calculator.
 
+[Demo](http://rodrigopolo.github.io/GoProCalc/)
+
 -------
 
 ### License
