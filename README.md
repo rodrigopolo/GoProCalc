@@ -1,4 +1,4 @@
-#GoPro Calc
+# GoPro Calc
 
 A simple HTML/Bootstrap/JavaScript GoPro calculator.
 
